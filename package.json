@@ -1,0 +1,24 @@
+{
+  "name": "default-ws",
+  "version": "1.0.0",
+  "description": "Template for microservice",
+  "main": "dist/service.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbopko/node-default-ws.git"
+  },
+  "keywords": [
+    "microservice",
+    "node"
+  ],
+  "author": "fiftypix.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbopko/node-default-ws/issues"
+  },
+  "homepage": "https://github.com/jbopko/node-default-ws#readme"
+}
